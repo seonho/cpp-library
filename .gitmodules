@@ -1,0 +1,18 @@
+[submodule "thrust"]
+	path = thrust
+	url = https://github.com/thrust/thrust.git
+[submodule "libsvm"]
+	path = libsvm
+	url = https://github.com/cjlin1/libsvm.git
+[submodule "arma_ext"]
+	path = arma_ext
+	url = https://github.com/seonho/arma_ext.git
+[submodule "auxiliary"]
+	path = auxiliary
+	url = https://github.com/seonho/auxiliary.git
+[submodule "jsoncxx"]
+	path = jsoncxx
+	url = https://github.com/seonho/jsoncxx.git
+[submodule "myx"]
+	path = myx
+	url = https://github.com/seonho/myx.git
