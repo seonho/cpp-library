@@ -16,3 +16,6 @@
 [submodule "myx"]
 	path = myx
 	url = https://github.com/seonho/myx.git
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/Itseez/opencv.git
